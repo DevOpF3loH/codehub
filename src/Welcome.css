@@ -1,0 +1,11 @@
+.welcome {
+  flex: 1;
+  background-color: gainsboro;
+  display: grid;
+  place-items: center;
+}
+
+.welcome_container > img {
+  width: 60%;
+  margin: 20px;
+}
